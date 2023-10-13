@@ -1,0 +1,12 @@
+IP-CIDR,0.0.0.0/8,UserDirect
+IP-CIDR,10.0.0.0/8,UserDirect
+IP-CIDR,100.64.0.0/10,UserDirect
+IP-CIDR,127.0.0.0/8,UserDirect
+IP-CIDR,169.254.0.0/16,UserDirect
+IP-CIDR,172.16.0.0/12,UserDirect
+IP-CIDR,192.168.0.0/16,UserDirect
+IP-CIDR,198.18.0.0/15,UserDirect
+IP-CIDR,224.0.0.0/4,UserDirect
+IP-CIDR,240.0.0.0/4,UserDirect
+
+DOMAIN-SUFFIX, osx.pymom.com,UserDirect
