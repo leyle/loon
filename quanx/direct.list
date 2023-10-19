@@ -9,4 +9,7 @@ IP-CIDR,198.18.0.0/15,UserDirect
 IP-CIDR,224.0.0.0/4,UserDirect
 IP-CIDR,240.0.0.0/4,UserDirect
 
-DOMAIN-SUFFIX, osx.pymom.com,UserDirect
+DOMAIN-SUFFIX,osx.pymom.com,UserDirect
+DOMAIN-SUFFIX,115.com,UserDirect
+DOMAIN-SUFFIX,anxia.com,UserDirect
+
