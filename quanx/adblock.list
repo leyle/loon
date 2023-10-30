@@ -1,10 +1,14 @@
 DOMAIN-KEYWORD,bayescom,REJECT
-DOMAIN-KEYWORD,umeng,REJECT
+DOMAIN-SUFFIX,umeng.com,REJECT
+DOMAIN-SUFFIX,umengcloud.com,REJECT
+DOMAIN-SUFFIX,ulogs.umeng.com,REJECT
 DOMAIN-SUFFIX,ut.taobao.com,REJECT
 DOMAIN,adashbc.ut.taobao.com,REJECT
 DOMAIN-SUFFIX,e.qq.com,REJECT
 DOMAIN-SUFFIX,sdk.e.qq.com,REJECT
 DOMAIN-SUFFIX,v.gdt.qq.com,REJECT
+DOMAIN-SUFFIX,bayescom.com,REJECT
+DOMAIN-SUFFIX,bayescom.cn,REJECT
 DOMAIN-SUFFIX,hectorstatic.baidu.com,REJECT
 DOMAIN-SUFFIX,mpush-api.aliyun.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
